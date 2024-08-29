@@ -1,1 +1,5 @@
-### template-ts-packageRepository for quick start typescript projects
+### template-ts-package
+
+[OLD] Repository for quick start typescript projects
+
+
